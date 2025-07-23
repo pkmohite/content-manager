@@ -12,6 +12,8 @@
 
 After driving product marketing and sales enablement for hypergrowth companies in Pharma, Supply Chain, and Logistics, I'm now solving the critical "last mile" problem that costs B2B companies millions in lost deals: the disconnect between customer needs and sales execution.
 
+**Unique perspective**: My father's 30+ year career as a procurement executive at one of India's largest conglomerates gives me rare insights into how enterprise buyers actually think, evaluate, and make multi-million dollar purchasing decisions - the invisible processes that most sales teams never see.
+
 At Proponent, we've built an AI-powered conversational intelligence platform that analyzes 1000s of sales calls to identify patterns in customer needs, pain points, questions and more — enabling sales and go-to-market teams to create sales pitches and targeted messaging that resonates with each unique buyer.
 
 My expertise spans:
